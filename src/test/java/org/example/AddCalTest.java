@@ -7,14 +7,14 @@ class AddCalTest {
     @Test
     void twoplus4()
     {
-        var obj = new add_cal();
+        var obj = new AddCal();
         assertEquals(4,obj.add(2,2));
     }
 
     @Test
     void fourfourpluseight()
     {
-        var obj = new add_cal();
+        var obj = new AddCal();
        assertEquals(8,obj.add(4,4));
     }
 
