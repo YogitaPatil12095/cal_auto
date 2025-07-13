@@ -2,7 +2,7 @@ package org.example;
 
 import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.*;
-class add_calTest {
+class AddCalTest {
 
     @Test
     void twoplus4()
