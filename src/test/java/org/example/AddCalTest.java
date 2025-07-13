@@ -8,7 +8,7 @@ class AddCalTest {
     void twoplus4()
     {
         var obj = new AddCal();
-        assertEquals(4,obj.add(2,2));
+        assertEquals(4,obj.add(3,2));
     }
 
     @Test
